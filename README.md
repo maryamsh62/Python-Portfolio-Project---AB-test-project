@@ -4,11 +4,11 @@
 In this project, we will be working to understand the results of an A/B test run by an [e-commerce website](https://en.wikipedia.org/wiki/E-commerce). The company has developed a new web page to increase the number of users who “convert,” meaning users who decide to pay for the product.
 
 ## 1. Project Purpose
-This project analyzes an A/B test to help the company decide whether to **ship the new landing page, keep the existing page**, or **collect more data**. The core business question is:
+This project analyzes an A/B test to help the company decide whether to **ship the new landing page, keep the existing page**, or **collect more data**. 
+
+The core business question is:
 
 **Does the new landing page lead to a higher user conversion rate than the old page?** 
-
-Analyze_ab_test_results_notebook
 
 ## 2. Background
 The company ran an experiment where users were randomly shown either:
